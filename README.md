@@ -6,7 +6,7 @@ This project analyzes patient appointment data to identify attendance patterns, 
 
 ## **Project Details**
 
-- **Tools:** Microsoft Excel, Pivot Tables, Google Looker Studio
+- **Tools:** Microsoft Excel, Pivot Tables, Google Data Studio
 - **Dataset:** Healthcare Appointment Dataset
 - **Total Records:** 200
 - **Original Columns:** 7
@@ -69,7 +69,7 @@ Used Excel Pivot Tables to examine appointment patterns and patient attendance b
 
 ### **4. Healthcare Appointment Dashboard**
 
-Developed an interactive dashboard using Google Looker Studio to visualize appointment performance, attendance patterns, and no-show trends.
+Developed an interactive dashboard using Google Data Studio to visualize appointment performance, attendance patterns, and no-show trends.
 
 **Dashboard Metrics:**
 
@@ -90,7 +90,7 @@ Developed an interactive dashboard using Google Looker Studio to visualize appoi
 
 **Interactive Dashboard:**
 
-[**View Live Dashboard – Google Looker Studio**](https://datastudio.google.com/reporting/8b1a6bb6-43d0-4102-9ef3-cbbb7d0487a0)
+[**View Live Dashboard – Google Data Studio**](https://datastudio.google.com/reporting/8b1a6bb6-43d0-4102-9ef3-cbbb7d0487a0)
 
 ## **Key Business Recommendations**
 
