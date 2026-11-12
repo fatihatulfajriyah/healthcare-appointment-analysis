@@ -54,7 +54,7 @@ Used Excel Pivot Tables to examine appointment patterns and patient attendance b
 
 **Business Questions:**
 
-- What is the distribution of completed, cancelled, and no-show appointments?
+- What is the distribution of completed, cancelled, no-show, and scheduled appointments?
 - Which visit reasons have the highest appointment volumes?
 - Which doctors handle the most appointments?
 - How do appointment patterns differ between morning and afternoon?
@@ -62,10 +62,10 @@ Used Excel Pivot Tables to examine appointment patterns and patient attendance b
 
 **Key Findings:**
 
-- 52 appointments resulted in no-shows, representing a 26% no-show rate.
-- Checkups recorded the highest appointment volume with 45 appointments.
-- Doctor D005 handled the highest number of appointments, with 29 records.
-- Afternoon appointments accounted for 125 records, compared to 75 morning appointments.
+- 52 appointments were recorded as no-shows, representing a 26% no-show rate.
+- Checkups recorded the highest appointment volume, with 45 appointments.
+- Doctor D005 handled the highest number of appointments, with 29 appointments.
+- Afternoon appointments accounted for 125 appointments, compared to 75 in the morning.
 
 ### **4. Healthcare Appointment Dashboard**
 
@@ -95,7 +95,7 @@ Developed an interactive dashboard using Google Looker Studio to visualize appoi
 
 ## **Key Business Recommendations**
 
-- Implement appointment reminders to reduce patient no-shows.
+- Implement automated appointment reminders to reduce patient no-shows and improve attendance rates.
 - Review scheduling patterns to improve appointment attendance.
 - Monitor doctors' appointment workloads to support better scheduling.
 - Evaluate cancellation patterns to improve resource allocation.
