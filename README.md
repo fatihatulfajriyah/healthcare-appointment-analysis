@@ -77,6 +77,7 @@ Developed an interactive dashboard using Google Looker Studio to visualize appoi
 - Completed Appointments: 46
 - Cancelled Appointments: 51
 - No-Show Appointments: 52
+- Scheduled Appointments: 51
 - No-Show Rate: 26%
 
 **Key Analysis:**
